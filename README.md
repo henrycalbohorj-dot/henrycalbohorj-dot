@@ -29,10 +29,10 @@
 
 ## Contacto y Locación
 
-**Ubicación:** Chincha, Perú (Disponibilidad Remota & Presencial)
+**Ubicación:** Chincha, Perú (Disponibilidad Remota & Presencial) - +51 947121840 - 
 
 ![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![GMAIL](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-> *"La simplicidad es el requisito previo para la confiabilidad."* — Edsger W. Dijkstra
+> *"Si miras los pequeñas acciones que hemos hecho en el pasado han tenido un gran impacto en nuestro presente, las decisiones que tomemos hoy seran repercusiòn en nuestro futuro"* — Nikola Tesla.
