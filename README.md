@@ -32,7 +32,7 @@
 
 ```yaml
 desarrollador:
-  nombre: "Henry Bohorquez"
+  nombre: "Henry Pachas Davalos"
   ubicacion: "Perú 🇵🇪"
   enfoque: "Sistemas Web Backend / Gestión de Datos"
   fortalezas_clave:
