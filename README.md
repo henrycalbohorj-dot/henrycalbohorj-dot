@@ -14,10 +14,10 @@
   <br/>
 
   
-  <a href="www.linkedin.com/in/henry-pachas-dávalos-8061841ba">
+  <a href="https://www.linkedin.com/in/henry-pachas-d%C3%A1valos-8061841ba">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu.email@ejemplo.com">
+  <a href="mailto:henry.calbohor.j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/henrycalbohorj-dot">
@@ -33,12 +33,12 @@
 ## 🎯 Perfil Técnico & Enfoque
 
 ```
-Arquitecto de Sistemas:
+Programador:
   Nombre: "Henry Pachas Davalos"
   Ubicacion: "Chincha, Ica - Perú 🇵🇪"
   Rol: "Backend & Systems Developer"
   
-  Habilidades:
+Habilidades:
     - "Modelado de Bases de Datos Relacionales (PostgreSQL / MySQL) & Query Tuning"
     - "Diseño de Arquitectura MVC & Patrones de Diseño Limpios (Clean Code)"
     - "Desarrollo de Sistemas de Gestión Documental y Trazabilidad Administrativa"
