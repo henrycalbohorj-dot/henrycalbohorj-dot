@@ -33,7 +33,7 @@
 ```yaml
 desarrollador:
   nombre: "Henry Pachas Davalos"
-  ubicacion: "Perú 🇵🇪"
+  ubicacion: "Peru - Chincha, Ica."
   enfoque: "Sistemas Web Backend / Gestión de Datos"
   fortalezas_clave:
     - "Modelado de bases de datos relacionales y optimización de consultas SQL complex"
