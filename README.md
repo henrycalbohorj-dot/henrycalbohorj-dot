@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  
   <h1>⚡ Henry Pachas Davalos</h1>
 
   <p align="center">
@@ -13,8 +13,8 @@
 
   <br/>
 
-  <!-- Badges de Contacto Directo -->
-  <a href="https://linkedin.com/in/tu-perfil">
+  
+  <a href="www.linkedin.com/in/henry-pachas-dávalos-8061841ba">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:tu.email@ejemplo.com">
