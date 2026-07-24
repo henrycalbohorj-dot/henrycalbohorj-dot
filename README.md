@@ -1,48 +1,38 @@
-<div align="center">
+# ⚡ Henry Pachas Davalos
 
-  <!-- Header Banner -->
-  <h1>⚡ Henry Pachas Davalos</h1>
+**Backend Developer | System Administrator | Database Architect**
 
-  <p align="center">
-    <b>Backend Developer | System Administrator | Database Architect</b>
-  </p>
-
-  <p align="center">
-    <i>"Especializado en la construcción de arquitecturas backend escalables, optimización de motores de bases de datos relacionales y diseño de sistemas de gestión documental de alto rendimiento."</i>
-  </p>
-
-  <br/>
-
-  <!-- Botones de Contacto Directo -->
-  <a href="https://wa.me/51947121840?text=Hola%20Henry,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/henry-pachas-d%C3%A1valos-8061841ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:henry.calbohor.j@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/henrycalbohorj-dot">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-</div>
-
-<br/>
+*"Especializado en la construcción de arquitecturas backend escalables, optimización de motores de bases de datos relacionales y diseño de sistemas de gestión documental de alto rendimiento."*
 
 ---
 
-## 🎯 Perfil Técnico & Enfoque
+## Enfoque y Proyectos Actuales
 
-```yaml
-desarrollador:
-  nombre: "Henry Pachas Davalos"
-  ubicacion: "Chincha, Ica - Perú 🇵🇪"
-  rol: "Backend & Systems Developer"
-  
-  especialidades_clave:
-    - "Modelado de Bases de Datos Relacionales (PostgreSQL / MySQL) & Query Tuning"
-    - "Diseño de Arquitectura MVC & Patrones de Diseño Limpios (Clean Code)"
-    - "Desarrollo de Sistemas de Gestión Documental y Trazabilidad Administrativa"
-    - "Infraestructura Linux, Servidores Web (Apache/Nginx) & Automatización"
+* **Desarrollo Backend & MVC:** Diseño y construcción de lógica de negocio en PHP, módulos de gestión y APIs desacopladas para plataformas web institucionales.
+* **Bases de Datos Relacionales:** Modelado de esquemas, trazabilidad de datos y query tuning avanzado en PostgreSQL y MySQL para la gestión masiva de expedientes.
+* **Administración de Sistemas & Linux:** Despliegue, configuración y mantenimiento de servidores web (Apache) y entornos en sistemas Linux.
+
+---
+
+## Stack Tecnológico
+
+### Desarrollo Backend & Frontend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Bases de Datos & Gestión Relacional
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Servidores, OS & Herramientas
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![APACHE](https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Contacto y Locación
+
+**Ubicación:** Chincha, Perú (Disponibilidad Remota & Presencial)
+
+![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![GMAIL](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+> *"La simplicidad es el requisito previo para la confiabilidad."* — Edsger W. Dijkstra
